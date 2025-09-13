@@ -8,6 +8,7 @@ Meus progetos em andamento: Cervejaria DogTown Brew de Ribeirão Preto-SP  (http
 <div style="display: inline_block"><br>
   <p>Linguagens de Programação: </p>
   <img align="center" alt="LuizMura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <p style="margin: 0; font-size: 12px;">HTML5</p>
   <img align="center" alt="LuizMura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="LuizMura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="LuizMura-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
