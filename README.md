@@ -19,11 +19,11 @@ Tasks App: developed with React, Vite, and Tailwind CSS — https://luizmura.git
 
 ## Certificates
 
-Front End Development Libraries (FreeCodeCamp) — Certificate Link
+Front End Development Libraries (FreeCodeCamp) — [Certificate Link](https://www.freecodecamp.org/certification/luizmurakami/front-end-development-libraries)
 
-JavaScript Algorithms and Data Structures (FreeCodeCamp) — Certificate Link
+JavaScript Algorithms and Data Structures (FreeCodeCamp) — [Certificate Link](https://www.freecodecamp.org/certification/luizmurakami/javascript-algorithms-and-data-structures-v8)
 
-Responsive Web Design (FreeCodeCamp) — Certificate Link
+Responsive Web Design (FreeCodeCamp) — [Certificate Link](https://www.freecodecamp.org/certification/luizmurakami/responsive-web-design)
 <div style="display: inline_block"><br>
  
   <p>Programming Languages: </p>
