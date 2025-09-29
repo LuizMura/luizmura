@@ -1,27 +1,29 @@
 # Front-end Developer
 
-"Focused on web development and programming, I aim to join a collaborative team where I can contribute my skills and keep learning in this vast and dynamic world of technology."
+"Focused on web development and programming, I aim to join a collaborative team where I can contribute my skills and continue learning in the vast and dynamic world of technology."
 
 "Currently based between Brazil and Italy, I’m seeking a team that allows me to work remotely."
 
 
-## Ongoing project: 
-- Brewery "DogTown Brew", from Ribeirão Preto-SP - Brazil  https://www.dogtownbrew.com.br/
+## Ongoing Project
 
-## Trainning Projects:
+Brewery DogTown Brew, Ribeirão Preto-SP, Brazil — https://www.dogtownbrew.com.br/
 
-- Portifolio: developed in HTML, CSS and JS Pure. https://luizmura.github.io/Bluebird/
+## Training Projects
 
-- Weather-App: developed in React + Vite.Js + TailwindCss. https://luizmura.github.io/Weather-App/
+Portfolio: developed with pure HTML, CSS, and JavaScript — https://luizmura.github.io/Bluebird/
 
-- Tasks-App: developed in React + Vite.Js + Tailwindcss. https://luizmura.github.io/Task-App/
+Weather App: developed with React, Vite, and Tailwind CSS — https://luizmura.github.io/Weather-App/
 
-## Certificates:
-- Front End Development Libraries (FreeCodeCamp ): https://www.freecodecamp.org/certification/luizmurakami/front-end-development-libraries
+Tasks App: developed with React, Vite, and Tailwind CSS — https://luizmura.github.io/Task-App/
 
-- JavaScript Algorithms and Data Structures (FreeCodeCamp ): https://www.freecodecamp.org/certification/luizmurakami/javascript-algorithms-and-data-structures-v8
+## Certificates
 
-- Responsive Web Design ( FreeCodeCamp ): https://www.freecodecamp.org/certification/luizmurakami/responsive-web-design
+Front End Development Libraries (FreeCodeCamp) — Certificate Link
+
+JavaScript Algorithms and Data Structures (FreeCodeCamp) — Certificate Link
+
+Responsive Web Design (FreeCodeCamp) — Certificate Link
 <div style="display: inline_block"><br>
  
   <p>Programming Languages: </p>
