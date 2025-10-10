@@ -10,6 +10,7 @@
 Brewery DogTown Brew, Ribeirão Preto-SP, Brazil — https://www.dogtownbrew.com.br/
 
 ## Training Projects
+Profile: developed with React.js+Vite, Tailwind - https://luizmura.github.io/Profile/
 
 Portfolio: developed with pure HTML, CSS, and JavaScript — https://luizmura.github.io/Bluebird/
 
